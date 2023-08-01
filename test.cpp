@@ -1,4 +1,5 @@
-// Testing C++ Object Oriented Programming Language.
+
+// Testing C++ Object Oriented Programming Language and This examples includes all Object Oriented programming Concepts.
 /*
 class-> is a template or blue print for creating an object and memory is -
 not allocated while creating class and class is logical entity. 
