@@ -116,7 +116,7 @@ int main()
  parent class used to refer a child class object 
 */
 // Create object 
- Employee emp("Felix",25,4000.67);
+ Employee emp=Employee("Felix",25,4000.67);
  //emp.printEmployeeData();
  Employee emp1("Henok",34,2000.90);
  //emp1.printEmployeeData();
@@ -130,6 +130,7 @@ Employee* e1=&d;
 Employee* e2=&t;
 e1->work();
 e2->work();
+   
 // we can not create object of an abstract class.
 
   return 0;
